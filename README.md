@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://ibb.co/Y7q9TkRK" width="726">
+      <img src="https://i.ibb.co/kgWn68Hr/Maul-Bam-Avarar.png" alt="Maul-Bam-Avarar" border="0" width="256">
 </p>
 
 <p align="center">
@@ -23,4 +23,4 @@ This project is distributed under MIT
 
 ## Some Promo
 
-<img src = "https://ibb.co/9kQSjnYG">
+<img src="https://i.ibb.co/67jL5YsN/Screen-Shot-Android.jpg" alt="Screen-Shot-Android" border="0">
